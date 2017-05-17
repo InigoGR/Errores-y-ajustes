@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=n\ grado
+comment0.target=Errores(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Errores\r\n
+comment1.params=
+comment1.target=double[]\ recogeDatosX()
+comment1.text=\r\n\ M\u00E9todo\ para\ recoger\ datos\ experimentales\ de\ la\ variable\ x\ a\ trav\u00E9s\ de\ una\ tabla\r\n\ \r\n\ @return\ \ \ \ \ array\ con\ valores\ num\u00E9ricos\ de\ los\ datos\ \r\n
+comment2.params=
+comment2.target=double[]\ recogeDatosY()
+comment2.text=\r\n\ M\u00E9todo\ para\ recoger\ datos\ experimentales\ de\ la\ variable\ y\ a\ trav\u00E9s\ de\ una\ tabla\r\n\ \r\n\ @return\ \ array\ con\ valores\ num\u00E9ricos\ de\ los\ datos\ \r\n
+comment3.params=
+comment3.target=double[]\ recogeDatosDelta()
+comment3.text=\r\n\ M\u00E9todo\ para\ recoger\ errores\ experimentales\ a\ trav\u00E9s\ de\ una\ tabla\r\n\ \r\n\ @return\ \ array\ con\ valores\ num\u00E9ricos\ de\ los\ datos\ \r\n
+comment4.params=x\ y
+comment4.target=double\ pendiente(double[],\ double[])
+comment4.text=\r\n\ M\u00E9todo\ para\ realizar\ ajuste\ \ (Obsoleto)\r\n\ \r\n\ @return\ \ valor\ de\ la\ pendiente\ \ \r\n
+comment5.params=x\ D
+comment5.target=double\ errorPendiente(double[],\ double[])
+comment5.text=\r\n\ M\u00E9todo\ para\ calcular\ error\ \ \ (Obsoleto)\r\n\ \r\n\ @return\ valor\ del\ error\ de\ la\ pendiente\r\n
+comment6.params=x\ y\ D
+comment6.target=void\ tabla(double[],\ double[],\ double[])
+comment6.text=\r\n\ M\u00E9todo\ para\ tabla\r\n\ \r\n
+numComments=7
